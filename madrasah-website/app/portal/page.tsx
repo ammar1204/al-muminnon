@@ -84,7 +84,7 @@ export default function StudentPortal() {
                 <BookOpen className="w-6 h-6 text-white" />
               </div>
               <div>
-                <h1 className="text-xl font-bold text-emerald-800">Al-Noor Madrasah</h1>
+                <h1 className="text-xl font-bold text-emerald-800">Al-Mu'minoon Madrasah</h1>
                 <p className="text-sm text-emerald-600">Student Portal</p>
               </div>
             </Link>

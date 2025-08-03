@@ -42,7 +42,7 @@ export default function PaymentPage() {
                 <BookOpen className="w-6 h-6 text-white" />
               </div>
               <div>
-                <h1 className="text-xl font-bold text-emerald-800">Al-Noor Madrasah</h1>
+                <h1 className="text-xl font-bold text-emerald-800">Al-Mu'minoon Madrasah</h1>
                 <p className="text-sm text-emerald-600">Payment Portal</p>
               </div>
             </Link>
@@ -200,7 +200,7 @@ export default function PaymentPage() {
                         <strong>Bank Name:</strong> Islamic Community Bank
                       </div>
                       <div>
-                        <strong>Account Name:</strong> Al-Noor Madrasah
+                        <strong>Account Name:</strong> Al-Mu'minoon Madrasah
                       </div>
                       <div>
                         <strong>Account Number:</strong> 1234567890
@@ -331,7 +331,7 @@ export default function PaymentPage() {
               <Button
                 size="lg"
                 className="w-full bg-emerald-600 hover:bg-emerald-700"
-                onClick={() => alert("Payment processed successfully! Welcome to Al-Noor Madrasah.")}
+                onClick={() => alert("Payment processed successfully! Welcome to Al-Mu'minoon Madrasah.")}
               >
                 Complete Payment - ${calculateTotal()}
               </Button>

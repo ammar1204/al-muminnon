@@ -17,7 +17,7 @@ export default function HomePage() {
                 <BookOpen className="w-6 h-6 text-white" />
               </div>
               <div>
-                <h1 className="text-xl font-bold text-emerald-800">Al-Noor Madrasah</h1>
+                <h1 className="text-xl font-bold text-emerald-800">Al-Mu'minoon Madrasah</h1>
                 <p className="text-sm text-emerald-600">Excellence in Islamic Education</p>
               </div>
             </div>
@@ -63,7 +63,7 @@ export default function HomePage() {
           <div className="mt-16">
             <Image
               src="/placeholder.svg?height=400&width=800"
-              alt="Al-Noor Madrasah Campus"
+              alt="Al-Mu'minoon Madrasah Campus"
               width={800}
               height={400}
               className="rounded-2xl shadow-2xl mx-auto"
@@ -182,7 +182,7 @@ export default function HomePage() {
           <div className="max-w-3xl mx-auto">
             <h3 className="text-3xl font-bold text-gray-900 mb-4">Ready to Begin Your Islamic Journey?</h3>
             <p className="text-lg text-gray-600 mb-8">
-              Join hundreds of families who have chosen Al-Noor Madrasah for their children's Islamic education.
+              Join hundreds of families who have chosen Al-Mu'minoon Madrasah for their children's Islamic education.
               Registration is now open for the new academic year.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
@@ -214,7 +214,7 @@ export default function HomePage() {
                   ))}
                 </div>
                 <p className="text-gray-600 mb-4">
-                  "Al-Noor Madrasah has been a blessing for our family. My son has not only memorized the Quran but has
+                  "Al-Mu'minoon Madrasah has been a blessing for our family. My son has not only memorized the Quran but has
                   also developed excellent Islamic character."
                 </p>
                 <div className="flex items-center">
@@ -352,7 +352,7 @@ export default function HomePage() {
                 <div className="w-8 h-8 bg-emerald-600 rounded-lg flex items-center justify-center">
                   <BookOpen className="w-5 h-5 text-white" />
                 </div>
-                <span className="text-xl font-bold">Al-Noor Madrasah</span>
+                <span className="text-xl font-bold">Al-Mu'minoon Madrasah</span>
               </div>
               <p className="text-gray-400">
                 Dedicated to providing quality Islamic education and nurturing the next generation of Muslim leaders.
@@ -423,7 +423,7 @@ export default function HomePage() {
           </div>
 
           <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-            <p>&copy; 2024 Al-Noor Madrasah. All rights reserved.</p>
+            <p>&copy; 2024 Al-Mu'minoon Madrasah. All rights reserved.</p>
           </div>
         </div>
       </footer>

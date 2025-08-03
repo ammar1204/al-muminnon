@@ -79,7 +79,7 @@ export default function RegisterPage() {
                 <BookOpen className="w-6 h-6 text-white" />
               </div>
               <div>
-                <h1 className="text-xl font-bold text-emerald-800">Al-Noor Madrasah</h1>
+                <h1 className="text-xl font-bold text-emerald-800">Al-Mu'minoon Madrasah</h1>
                 <p className="text-sm text-emerald-600">Student Registration</p>
               </div>
             </Link>
@@ -383,7 +383,7 @@ export default function RegisterPage() {
                         <Link href="/policies" className="text-emerald-600 underline ml-1">
                           School Policies
                         </Link>{" "}
-                        of Al-Noor Madrasah. I understand the fee structure and payment policies.
+                        of Al-Mu'minoon Madrasah. I understand the fee structure and payment policies.
                       </Label>
                     </div>
                     <div className="flex items-start space-x-3">
